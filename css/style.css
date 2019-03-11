@@ -1462,3 +1462,9 @@ a {
 .unit-8 .accordion-item .body-text {
   padding: 5px 0;
   padding-left: 30px; }
+
+#logo img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
